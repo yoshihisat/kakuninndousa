@@ -4,10 +4,10 @@ from diaries.AbstractDiary import AbstractDiary
 class DiarySample(AbstractDiary):
 
     def get_date(self):
-        return "2020-11-25"
+        return "2020-12-2"
 
     def get_summary(self):
-        return "なにもない一日だった"
+        return "久しぶりにランチを食べた．"
 
     def get_author(self):
-        return "normal"
+        return "good"
